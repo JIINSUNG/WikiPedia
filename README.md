@@ -1,18 +1,18 @@
 # Description
 WikiPedia Project During Winter to (processing)
 
-#Started 
+# Started 
 2022-01-23
 
-#Frontend 
+# Frontend 
 HTML 
 CSS
 JavaScript
 
-#Backend
+# Backend
 Node.js
 
-#Operating System
+# Operating System
 Window 10 
 
 
